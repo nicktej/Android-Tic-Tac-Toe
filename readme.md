@@ -17,8 +17,11 @@ The only thing to note after downloading this is that some parts might be outdat
 ### Images
 
 
-![Image of homescreen](https://github.com/nicktej/Android-Tic-Tac-Toe/tree/master/images/1.png)
+![Image of Main Screen](https://github.com/nicktej/Android-Tic-Tac-Toe/tree/master/images/1.png "Image of Main Screen")
 
+![Image of Winning](https://github.com/nicktej/Android-Tic-Tac-Toe/tree/master/images/2.png "Image of Winning")
+
+![Image of Drawing](https://github.com/nicktej/Android-Tic-Tac-Toe/tree/master/images/3.png "Image of Drawing")
 
 
 ### Acknowledgments
