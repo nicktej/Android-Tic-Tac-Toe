@@ -79,8 +79,6 @@ public class TicTacToeView extends View {
 
         // draw players (O, X)
         drawPlayers(canvas);
-
-        canvas.drawText("HELLO WORLD", 150, 150, paintText);
     }
 
     private void drawPlayers(Canvas canvas) {
